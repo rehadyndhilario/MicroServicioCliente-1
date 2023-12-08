@@ -1,0 +1,11 @@
+C:\Users\redin\source\repos\ClientMicroService\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\redin\source\repos\ClientMicroService\Common\bin\Debug\net8.0\Common.dll
+C:\Users\redin\source\repos\ClientMicroService\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\redin\source\repos\ClientMicroService\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redin\source\repos\ClientMicroService\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\redin\source\repos\ClientMicroService\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\redin\source\repos\ClientMicroService\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\redin\source\repos\ClientMicroService\Common\obj\Debug\net8.0\Common.dll
+C:\Users\redin\source\repos\ClientMicroService\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\redin\source\repos\ClientMicroService\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\redin\source\repos\ClientMicroService\Common\obj\Debug\net8.0\ref\Common.dll
